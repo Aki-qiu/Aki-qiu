@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working as a quantitative researcher
-- 🌱 I’m currently learning agent application in quantitative research field.
+- 🌱 I’m currently learning agent application in quantitative finance research field.
 - 😄 Pronouns: He/Him
 <!--
 **Aki-qiu/Aki-qiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
